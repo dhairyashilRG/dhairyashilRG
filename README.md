@@ -1,6 +1,6 @@
 ### Welcome :wave:
 
-I'm Dhairyashil R. Ghatage, an engineer passionate about scientific computing and algorithms.
+I'm Dhairyashil R. Ghatage, an engineer passionate about scientific computing, algorithms and machine learning.
 
 - PhD [Indian Institute of Science, Bangalore](https://iisc.ac.in/) (2018)
 - B.Tech [College of Engineering, Pune](https://www.coep.org.in/) (2011)
@@ -13,6 +13,10 @@ I'm Dhairyashil R. Ghatage, an engineer passionate about scientific computing an
 - Holds Doctorate and Masters degrees with focus on Computational Fluid Dynamics, Numerical Methods, and Statistical Thermodynamics
 - Directed large-scale simulations, providing insightful analytical evaluations and driving collaborative solutions
 
+### Machine Learning Projects
+- [Repository for multiple projects](https://github.com/dhairyag/extensive_AI_reimagined_advanced)
+- [HuggingFace Spaces](https://huggingface.co/dhairyashil)
+
 ### Open Source Packages
 I have extensively used following packages for particle based simulations to model physical problems-
 - [LAMMPS](https://github.com/lammps/lammps): Molecular Dynamics Simulations
@@ -23,5 +27,5 @@ The necessary customizations were carried out on the local/lab machine as per th
 
 ###  📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/dhairya25/)
+- [LinkedIn](https://www.linkedin.com/in/dhairya25)
 
