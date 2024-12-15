@@ -5,6 +5,9 @@ I'm Dhairyashil R. Ghatage, an engineer passionate about scientific computing, a
 - PhD [Indian Institute of Science, Bangalore](https://iisc.ac.in/) (2018)
 - B.Tech [College of Engineering, Pune](https://www.coep.org.in/) (2011)
 
+### [Latest AI/ML Projects List](https://github.com/dhairyag/AI_Quest_Lab)
+Check [README](https://github.com/dhairyag/AI_Quest_Lab/blob/main/README.md) for list of folders and repos having various projects.
+
 ### Introduction
 - Over 12 years of development experience in computational sciences
 - Implemented parallel algorithms utilizing **MPI** for efficient scientific computing
