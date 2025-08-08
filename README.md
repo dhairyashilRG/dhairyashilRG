@@ -30,5 +30,5 @@ The necessary customizations were carried out on the local/lab machine as per th
 
 ###  📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/dhairyasil/)
+- [LinkedIn](https://www.linkedin.com/in/dhairyashilrg/)
 
