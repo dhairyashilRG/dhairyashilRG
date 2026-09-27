@@ -12,8 +12,9 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-6 merged, 3 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+6 merged, 4 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#226761](https://github.com/llvm/llvm-project/pull/226761) [mlir][scf] Fix scf.for value bounds for empty and unsigned loops (open)
 - [llvm/llvm-project#226517](https://github.com/llvm/llvm-project/pull/226517) [mlir][vector] Add an eliminate-vector-masks pass (open)
 - [llvm/llvm-project#226490](https://github.com/llvm/llvm-project/pull/226490) [mlir][linalg] Fix rank-reducing insert_slice vectorization writing to wrong dims (open)
 - [llvm/llvm-project#224105](https://github.com/llvm/llvm-project/pull/224105) [MLIR][NVVM] Add SM version requirements to mbarrier Ops (open)
