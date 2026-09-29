@@ -12,14 +12,14 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-6 merged, 6 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+7 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
 - [vllm-project/vllm#58911](https://github.com/vllm-project/vllm/pull/58911) [Bugfix][Parser] Emit buffered post-reasoning text when no tool parser is configured (open)
 - [triton-lang/triton#11982](https://github.com/triton-lang/triton/pull/11982) [AxisInfo] Do not keep contiguity across the wrap point of int casts (open)
 - [llvm/llvm-project#226761](https://github.com/llvm/llvm-project/pull/226761) [mlir][scf] Fix scf.for value bounds for empty and unsigned loops (open)
 - [llvm/llvm-project#226517](https://github.com/llvm/llvm-project/pull/226517) [mlir][vector] Add an eliminate-vector-masks pass (open)
 - [llvm/llvm-project#226490](https://github.com/llvm/llvm-project/pull/226490) [mlir][linalg] Fix rank-reducing insert_slice vectorization writing to wrong dims (open)
-- [llvm/llvm-project#224105](https://github.com/llvm/llvm-project/pull/224105) [MLIR][NVVM] Add SM version requirements to mbarrier Ops (open)
+- [llvm/llvm-project#224105](https://github.com/llvm/llvm-project/pull/224105) [MLIR][NVVM] Add SM version requirements to mbarrier Ops (merged)
 - [llvm/llvm-project#222916](https://github.com/llvm/llvm-project/pull/222916) [MLIR][NVVM] Fix the lowering of legacy mbar.arrive_drop (merged)
 - [llvm/llvm-project#221595](https://github.com/llvm/llvm-project/pull/221595) [mlir][vector] Support fixed-size masks in `eliminateVectorMasks` (merged)
 - [llvm/llvm-project#219681](https://github.com/llvm/llvm-project/pull/219681) [mlir][vector] Don't fold in_bounds for negative constant indices (merged)
