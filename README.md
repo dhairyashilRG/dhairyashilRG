@@ -12,11 +12,13 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-8 merged, 4 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+9 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (open)
+- [llvm/llvm-project#228668](https://github.com/llvm/llvm-project/pull/228668) [mlir][vector] Keep a write mask that does not cover the whole vector (open)
 - [vllm-project/vllm#58911](https://github.com/vllm-project/vllm/pull/58911) [Bugfix][Parser] Emit buffered post-reasoning text when no tool parser is configured (open)
 - [triton-lang/triton#11982](https://github.com/triton-lang/triton/pull/11982) [AxisInfo] Do not keep contiguity across the wrap point of int casts (open)
-- [llvm/llvm-project#226761](https://github.com/llvm/llvm-project/pull/226761) [mlir][scf] Fix scf.for value bounds for empty and unsigned loops (open)
+- [llvm/llvm-project#226761](https://github.com/llvm/llvm-project/pull/226761) [mlir][scf] Fix scf.for value bounds for empty and unsigned loops (merged)
 - [llvm/llvm-project#226517](https://github.com/llvm/llvm-project/pull/226517) [mlir][vector] Add an eliminate-vector-masks pass (merged)
 - [llvm/llvm-project#226490](https://github.com/llvm/llvm-project/pull/226490) [mlir][linalg] Fix rank-reducing insert_slice vectorization writing to wrong dims (open)
 - [llvm/llvm-project#224105](https://github.com/llvm/llvm-project/pull/224105) [MLIR][NVVM] Add SM version requirements to mbarrier Ops (merged)
