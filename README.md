@@ -12,9 +12,10 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-9 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+10 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
-- [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (open)
+- [llvm/llvm-project#229073](https://github.com/llvm/llvm-project/pull/229073) [NVPTX] Handle vector splats nested in aggregate initializers (open)
+- [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (merged)
 - [llvm/llvm-project#228668](https://github.com/llvm/llvm-project/pull/228668) [mlir][vector] Keep a write mask that does not cover the whole vector (open)
 - [vllm-project/vllm#58911](https://github.com/vllm-project/vllm/pull/58911) [Bugfix][Parser] Emit buffered post-reasoning text when no tool parser is configured (open)
 - [triton-lang/triton#11982](https://github.com/triton-lang/triton/pull/11982) [AxisInfo] Do not keep contiguity across the wrap point of int casts (open)
