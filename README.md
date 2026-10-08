@@ -12,12 +12,14 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-10 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+11 merged, 6 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#229852](https://github.com/llvm/llvm-project/pull/229852) [mlir][vector] Fix mask rank extension for TransferWriteNonPermutationLowering (open)
+- [llvm/llvm-project#229735](https://github.com/llvm/llvm-project/pull/229735) [mlir][bytecode] Reject dialect groups with more entries than declared (open)
 - [llvm/llvm-project#229073](https://github.com/llvm/llvm-project/pull/229073) [NVPTX] Handle vector splats nested in aggregate initializers (open)
 - [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (merged)
 - [llvm/llvm-project#228668](https://github.com/llvm/llvm-project/pull/228668) [mlir][vector] Keep a write mask that does not cover the whole vector (open)
-- [vllm-project/vllm#58911](https://github.com/vllm-project/vllm/pull/58911) [Bugfix][Parser] Emit buffered post-reasoning text when no tool parser is configured (open)
+- [vllm-project/vllm#58911](https://github.com/vllm-project/vllm/pull/58911) [Bugfix][Parser] Emit buffered post-reasoning text when no tool parser is configured (merged)
 - [triton-lang/triton#11982](https://github.com/triton-lang/triton/pull/11982) [AxisInfo] Do not keep contiguity across the wrap point of int casts (open)
 - [llvm/llvm-project#226761](https://github.com/llvm/llvm-project/pull/226761) [mlir][scf] Fix scf.for value bounds for empty and unsigned loops (merged)
 - [llvm/llvm-project#226517](https://github.com/llvm/llvm-project/pull/226517) [mlir][vector] Add an eliminate-vector-masks pass (merged)
