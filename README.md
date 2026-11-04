@@ -12,13 +12,13 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-16 merged, 4 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+17 merged, 3 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
 - [llvm/llvm-project#235849](https://github.com/llvm/llvm-project/pull/235849) [mlir][vector][NFC] Merge the unit-dim helpers in LowerVectorTransfer (merged)
 - [llvm/llvm-project#233244](https://github.com/llvm/llvm-project/pull/233244) [mlir][vector] Check the written dims when folding a write mask (merged)
 - [llvm/llvm-project#233243](https://github.com/llvm/llvm-project/pull/233243) [mlir][vector] Mask a write that fills its dims but starts at a non-zero index (merged)
 - [triton-lang/triton#12219](https://github.com/triton-lang/triton/pull/12219) [TritonGPU] Fix wrong results and crashes in batched tl.dot_scaled (open)
-- [llvm/llvm-project#229852](https://github.com/llvm/llvm-project/pull/229852) [mlir][vector] Fix mask rank extension for TransferWriteNonPermutationLowering (open)
+- [llvm/llvm-project#229852](https://github.com/llvm/llvm-project/pull/229852) [mlir][vector] Fix mask rank extension for TransferWriteNonPermutationLowering (merged)
 - [llvm/llvm-project#229735](https://github.com/llvm/llvm-project/pull/229735) [mlir][bytecode] Reject dialect groups with more entries than declared (open)
 - [llvm/llvm-project#229073](https://github.com/llvm/llvm-project/pull/229073) [NVPTX] Handle vector splats nested in aggregate initializers (open)
 - [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (merged)
