@@ -12,8 +12,11 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-17 merged, 3 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+17 merged, 6 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#239699](https://github.com/llvm/llvm-project/pull/239699) [mlir][vector] Don't drop out-of-bounds leading unit dims of transfers (open)
+- [llvm/llvm-project#239583](https://github.com/llvm/llvm-project/pull/239583) [mlir][ArmSVE] Scale the scalable dim index in LegalizeTransferRead (open)
+- [llvm/llvm-project#239288](https://github.com/llvm/llvm-project/pull/239288) [mlir][memref] Fix folding alias ops into transfers masked by vector.mask (open)
 - [llvm/llvm-project#235849](https://github.com/llvm/llvm-project/pull/235849) [mlir][vector][NFC] Merge the unit-dim helpers in LowerVectorTransfer (merged)
 - [llvm/llvm-project#233244](https://github.com/llvm/llvm-project/pull/233244) [mlir][vector] Check the written dims when folding a write mask (merged)
 - [llvm/llvm-project#233243](https://github.com/llvm/llvm-project/pull/233243) [mlir][vector] Mask a write that fills its dims but starts at a non-zero index (merged)
