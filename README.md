@@ -12,7 +12,7 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-17 merged, 6 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+18 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
 - [llvm/llvm-project#239699](https://github.com/llvm/llvm-project/pull/239699) [mlir][vector] Don't drop out-of-bounds leading unit dims of transfers (open)
 - [llvm/llvm-project#239583](https://github.com/llvm/llvm-project/pull/239583) [mlir][ArmSVE] Scale the scalable dim index in LegalizeTransferRead (open)
@@ -22,7 +22,7 @@ Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 - [llvm/llvm-project#233243](https://github.com/llvm/llvm-project/pull/233243) [mlir][vector] Mask a write that fills its dims but starts at a non-zero index (merged)
 - [triton-lang/triton#12219](https://github.com/triton-lang/triton/pull/12219) [TritonGPU] Fix wrong results and crashes in batched tl.dot_scaled (open)
 - [llvm/llvm-project#229852](https://github.com/llvm/llvm-project/pull/229852) [mlir][vector] Fix mask rank extension for TransferWriteNonPermutationLowering (merged)
-- [llvm/llvm-project#229735](https://github.com/llvm/llvm-project/pull/229735) [mlir][bytecode] Reject dialect groups with more entries than declared (open)
+- [llvm/llvm-project#229735](https://github.com/llvm/llvm-project/pull/229735) [mlir][bytecode] Reject dialect groups with more entries than declared (merged)
 - [llvm/llvm-project#229073](https://github.com/llvm/llvm-project/pull/229073) [NVPTX] Handle vector splats nested in aggregate initializers (open)
 - [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (merged)
 - [llvm/llvm-project#228668](https://github.com/llvm/llvm-project/pull/228668) [mlir][vector] Keep a write mask that does not cover the whole vector (merged)
