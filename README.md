@@ -12,7 +12,7 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-21 merged, 3 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+22 merged, 2 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
 - [llvm/llvm-project#241398](https://github.com/llvm/llvm-project/pull/241398) [mlir][scf] Compare vector reads and writes fully in parallel loop fusion (open)
 - [llvm/llvm-project#239699](https://github.com/llvm/llvm-project/pull/239699) [mlir][vector] Don't drop out-of-bounds leading unit dims of transfers (merged)
@@ -24,7 +24,7 @@ Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 - [triton-lang/triton#12219](https://github.com/triton-lang/triton/pull/12219) [TritonGPU] Fix wrong results and crashes in batched tl.dot_scaled (open)
 - [llvm/llvm-project#229852](https://github.com/llvm/llvm-project/pull/229852) [mlir][vector] Fix mask rank extension for TransferWriteNonPermutationLowering (merged)
 - [llvm/llvm-project#229735](https://github.com/llvm/llvm-project/pull/229735) [mlir][bytecode] Reject dialect groups with more entries than declared (merged)
-- [llvm/llvm-project#229073](https://github.com/llvm/llvm-project/pull/229073) [NVPTX] Handle vector splats nested in aggregate initializers (open)
+- [llvm/llvm-project#229073](https://github.com/llvm/llvm-project/pull/229073) [NVPTX] Handle vector splats nested in aggregate initializers (merged)
 - [llvm/llvm-project#228852](https://github.com/llvm/llvm-project/pull/228852) [MLIR][NVVM] Pass an i32 exponent to libdevice when lowering math.fpowi (merged)
 - [llvm/llvm-project#228668](https://github.com/llvm/llvm-project/pull/228668) [mlir][vector] Keep a write mask that does not cover the whole vector (merged)
 - [vllm-project/vllm#58911](https://github.com/vllm-project/vllm/pull/58911) [Bugfix][Parser] Emit buffered post-reasoning text when no tool parser is configured (merged)
