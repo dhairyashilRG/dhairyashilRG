@@ -12,9 +12,9 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-22 merged, 2 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+23 merged, 1 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
-- [llvm/llvm-project#241398](https://github.com/llvm/llvm-project/pull/241398) [mlir][scf] Compare vector reads and writes fully in parallel loop fusion (open)
+- [llvm/llvm-project#241398](https://github.com/llvm/llvm-project/pull/241398) [mlir][scf] Compare vector reads and writes fully in parallel loop fusion (merged)
 - [llvm/llvm-project#239699](https://github.com/llvm/llvm-project/pull/239699) [mlir][vector] Don't drop out-of-bounds leading unit dims of transfers (merged)
 - [llvm/llvm-project#239583](https://github.com/llvm/llvm-project/pull/239583) [mlir][ArmSVE] Scale the scalable dim index in LegalizeTransferRead (merged)
 - [llvm/llvm-project#239288](https://github.com/llvm/llvm-project/pull/239288) [mlir][memref] Fix folding alias ops into transfers masked by vector.mask (merged)
