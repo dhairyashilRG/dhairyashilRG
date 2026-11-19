@@ -12,8 +12,9 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-23 merged, 4 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+23 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#243927](https://github.com/llvm/llvm-project/pull/243927) [mlir][linalg] Do not fold tensor.pad into a read inside vector.mask (open)
 - [llvm/llvm-project#243714](https://github.com/llvm/llvm-project/pull/243714) [mlir][VectorToSCF] Clamp the create_mask bound in the scalable transposed write (open)
 - [llvm/llvm-project#243710](https://github.com/llvm/llvm-project/pull/243710) [mlir][vector] Keep the vector.mask pass-thru when dropping unit dims of a read (open)
 - [llvm/llvm-project#243425](https://github.com/llvm/llvm-project/pull/243425) [mlir][affine] Mask transfers in SuperVectorize instead of using in_bounds (open)
