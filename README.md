@@ -12,8 +12,9 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-27 merged, 4 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+27 merged, 5 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#245059](https://github.com/llvm/llvm-project/pull/245059) [mlir][bufferization] Fix deallocation with single-op regions like vector.mask (open)
 - [llvm/llvm-project#245014](https://github.com/llvm/llvm-project/pull/245014) [mlir][ArmSME] Do not lower masked scalable column reads to loops (open)
 - [llvm/llvm-project#245003](https://github.com/llvm/llvm-project/pull/245003) [mlir][x86] Do not lower masked or out-of-bounds reads to AMX (open)
 - [llvm/llvm-project#244895](https://github.com/llvm/llvm-project/pull/244895) [mlir][x86] Do not lower masked reads in VectorContractBF16ToFMA (open)
