@@ -12,8 +12,9 @@ Website: [dhairyashilrg.dev](https://dhairyashilrg.dev)
 Mostly MLIR's vector and affine dialects, plus NVVM lowering.
 
 <!-- PRS:START -->
-32 merged, 3 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
+32 merged, 4 under review. The list updates itself from [the site](https://dhairyashilrg.dev/work).
 
+- [llvm/llvm-project#246463](https://github.com/llvm/llvm-project/pull/246463) [mlir][ArmSME] Do not legalize writes in `vector.mask` (open)
 - [llvm/llvm-project#245326](https://github.com/llvm/llvm-project/pull/245326) [mlir][x86][NFC] Drop in_bounds that the AMX dot-product test does not need (merged)
 - [llvm/llvm-project#245286](https://github.com/llvm/llvm-project/pull/245286) [mlir][ArmSME] Do not use the store loop for writes with out-of-bounds rows (open)
 - [llvm/llvm-project#245272](https://github.com/llvm/llvm-project/pull/245272) [mlir][ArmSME] Swap the in_bounds flags of transposed stores via ZA (open)
